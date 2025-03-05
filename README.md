@@ -69,6 +69,19 @@ For new customer data, missing values were handled, and the trained model was us
 
 ## 📊 7. Visualization
 To better understand churn trends, various visualizations were generated:
+## Visualization
+
+### Gender and Marital Status Distribution
+![Gender and Marital Status](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(51).png)
+
+### Education Level Distribution
+![Education Level](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(52).png)
+
+### Additional Visualizations
+![Chart 1](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(53).png)
+![Chart 2](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(54).png)
+...
+
 
 🔥 **Heatmaps**: Showed correlations between features and churn rate  
 📊 **KDE & Box Plots**: Displayed feature distributions across churn status  
