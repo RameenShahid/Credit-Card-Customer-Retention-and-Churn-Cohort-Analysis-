@@ -77,10 +77,39 @@ To better understand churn trends, various visualizations were generated:
 ### Education Level Distribution
 ![Education Level](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(52).png)
 
-### Additional Visualizations
-![Chart 1](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(53).png)
-![Chart 2](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(54).png)
-...
+### Age Group Distribution
+![Age Group Distribution](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(53).png)
+
+### Customer Tenure Analysis
+![Customer Tenure](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(54).png)
+
+### Credit Limit vs. Retention
+![Credit Limit Analysis](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(55).png)
+
+### Monthly Transaction Volume
+![Monthly Transactions](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(56).png)
+
+### Churn Rate Over Time
+![Churn Rate Over Time](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(57).png)
+
+### Average Spending Patterns
+![Spending Patterns](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(58).png)
+
+### Retention Based on Offers
+![Retention Offers](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(59).png)
+
+### Customer Churn Segmentation
+![Churn Segmentation](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(60).png)
+
+### Credit Score Impact
+![Credit Score Impact](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(61).png)
+
+### Payment Behavior Analysis
+![Payment Behavior](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(62).png)
+
+### Regional Retention Trends
+![Regional Retention](https://github.com/RameenShahid/Credit-Card-Customer-Retention-and-Churn-Cohort-Analysis-/blob/d9dfaba3662434ffa4cf6b21e903d8a137ae7e6a/images/New%20folder/Screenshot%20(63).png)
+
 
 
 🔥 **Heatmaps**: Showed correlations between features and churn rate  
