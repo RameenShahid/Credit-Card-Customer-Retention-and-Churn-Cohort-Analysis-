@@ -1,5 +1,4 @@
-# 📊 Data Analysis on Customer Attrition Prediction
-
+# 📊 Forecasting Attrition: A Data Analysis and Machine Learning Approach
 ## 🔍 1. Introduction
 Customer attrition, or churn, is a key concern for financial institutions. This analysis aims to predict customer churn based on demographic details, transaction history, and account usage. The dataset includes customer demographics, credit card behavior, and engagement patterns.
 
